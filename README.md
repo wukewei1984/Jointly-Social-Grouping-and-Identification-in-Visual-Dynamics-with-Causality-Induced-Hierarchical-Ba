@@ -1,14 +1,3 @@
-# Learning Actor Relation Graphs for Group Activity Recognition
-
-Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.10117)):
-
-        Learning Actor Relation Graphs for Group Activity Recognition
-        Jianchao Wu, Limin Wang, Li Wang, Jie Guo, Gangshan Wu
-        in CVPR 2019
-        
-        
-
-
 ## Dependencies
 
 - Python `3.x`
@@ -51,19 +40,6 @@ Source code for the following paper([arXiv link](https://arxiv.org/abs/1904.1011
     ```
     
     You can specify the running arguments in the python files under `scripts/` directory. The meanings of arguments can be found in `config.py`
-
-
-
-## Citation
-
-```
-@inproceedings{CVPR2019_ARG,
-  title = {Learning Actor Relation Graphs for Group Activity Recognition},
-  author = {Jianchao Wu and Limin Wang and Li Wang and Jie Guo and Gangshan Wu},
-  booktitle = {CVPR},
-  year = {2019},
-}
-```
 
 
 
